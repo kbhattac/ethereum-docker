@@ -232,7 +232,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/meken/ethereum-docker/master/azure/start-ethereum.sh"
+            "https://raw.githubusercontent.com/kbhattmsft/ethereum-docker/master/azure/start-ethereum.sh"
           ],
           "commandToExecute": "sh start-ethereum.sh"
         }
