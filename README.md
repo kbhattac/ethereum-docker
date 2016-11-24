@@ -41,7 +41,7 @@ by default.
 
 ### Running it on Azure
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmeken%2Fethereum-docker%2Fmaster%2Fazure%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkbhattmsft%2Fethereum-docker%2Fmaster%2Fazure%2Fazuredeploy.json)
 [![Visualize](http://armviz.io/visualizebutton.png)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fmeken%2Fethereum-docker%2Fmaster%2Fazure%2Fazuredeploy.json)
 
 This basically provisions an Ubuntu VM on Azure with Docker installed and the abovementioned containers running. 
