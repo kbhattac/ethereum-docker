@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone https://github.com/meken/ethereum-docker.git
+git clone https://github.com/kbhattmsft/ethereum-docker.git
 
 cd ethereum-docker
 
